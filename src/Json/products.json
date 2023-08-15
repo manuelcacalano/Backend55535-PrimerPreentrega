@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "title": "Producto 1",
+        "description": "Descripcion producto 1",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "A",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "description": "Descripcion producto 2",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "B",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "description": "Descripcion producto 3",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "C",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "title": "Producto 4",
+        "description": "Descripcion producto 4",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "D",
+        "stock": 10
+    }
+    ,
+    {
+        "id": 5,
+        "title": "Producto 5",
+        "description": "Descripcion producto 5",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "E",
+        "stock": 10
+    }
+    ,
+    {
+        "id": 6,
+        "title": "Producto 6",
+        "description": "Descripcion producto 6",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "F",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "title": "Producto 7",
+        "description": "Descripcion producto 7",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "G",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "title": "Producto 8",
+        "description": "Descripcion producto 8",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "H",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "title": "Producto 9",
+        "description": "Descripcion producto 9",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "I",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "title": "Producto 10",
+        "description": "Descripcion producto 10",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "J",
+        "stock": 10
+    }
+]
